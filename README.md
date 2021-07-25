@@ -2,7 +2,7 @@
 
 ## important
 
-this is basically an edit of hydraware that I made for a friend a while ago, not gonna go into detail but there really wasn't much interest for me to work on this and after around 6 months of it just sitting there i finally decided it's time to dump the source onto my github.
+this is basically an edit of hydraware that I made for a friend a while ago, not gonna go into detail but there really wasn't much interest for me to work on this and after around 6 months of it just sitting there i finally decided it's time to dump the source onto my github. this is pretty shitty altogether and especially isn't worth a uc thread.
 
 ## cyberware vs. hydraware
 a few of the changes in this are
