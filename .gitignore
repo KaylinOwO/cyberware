@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.db-shm
+*.db-wal
+*.db
+*.opendb
+.vs/cyberware/v17/.suo
+*.tlog
+*.log
+*.recipe
+*.iobj
+*.ipdb
